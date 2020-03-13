@@ -41,7 +41,7 @@ pip install -r requirements
  sudo python main.py
  ```
 
-###Important
+### Important
 
 - Run main.py in admin mode.
 - Ensure that the file being uploaded has no spaces, no special characters etc
